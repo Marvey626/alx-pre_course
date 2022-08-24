@@ -1,2 +1,2 @@
-My first readme
-This is an uodate
+My first readme.
+This is an update.
